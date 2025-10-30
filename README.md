@@ -1,2 +1,2 @@
 # CloudCapstone-projects
-The projects which I have trained on during Cloud- DevOps training
+The projects which I have worked on during Cloud- DevOps training
